@@ -1,5 +1,6 @@
 # Flashcard-Language-Learner
 A Python/Tkinter application for spaced-repetition language learning with French-English vocabulary cards
+![image](https://github.com/user-attachments/assets/1aab92c6-498e-4f55-a8bf-c3b9ba4836d0)
 
 Key Features
 🔄 Auto-Flipping Cards - Shows English translation after 3 seconds
